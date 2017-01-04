@@ -1,0 +1,1 @@
+Using the staging area is valuable as you can add or remove items form your commit to ensure you create a proper picture of the change made at that time.
