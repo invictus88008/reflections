@@ -1,0 +1,16 @@
+It was very interesting to use Diff to compare files.  It seems like this is what Git does, and I'm glad we are starting here because I use Git, but its mainly because my former mentor told me to use git, and it seems easy when working on different computers, or to pass on information, but other than that, I didn't use it for much.
+So using this for some very basic version control, and seeing it at a very simple level was great!
+
+Having access to long term versions would be awesome so say if you had something working 4 months ago, but you changed it and discover 4 months down the road you want it back, you can simply access it or change it back.
+
+The pros are you don't have random saves that clutter the organization of checking for differences in the code.  The cons are human error.  I generally find myself doing commits after 2 to 3 changes....  Oops
+
+Google docs and git have totally different intentions. Google docs are for the non-coding business community, or personal use and generally you don’t need this kind of functionally, whereas with Git you do need this functionality as each doc is a small piece of the overall product.
+
+
+Using git diff is awesome to see what changes were made on which commits.  So if you are trying to pull a string on something breaking, you can see it really easily just by going through the changes made on that day or that file.
+
+Well its easy enough to just revert the change, then fix it in the live version.
+
+
+I’m going to be using it to collaborate on projects and as a version control system. I’m excited to know about the log tool, and the comparing tool.  Also good to know that the entire git log is stored in my computer, so I can see all the changes easily even offline.
