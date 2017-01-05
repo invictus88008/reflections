@@ -1,1 +1,9 @@
 Using the staging area is valuable as you can add or remove items form your commit to ensure you create a proper picture of the change made at that time.
+
+
+You can use it to see what changes were made to which files, and seperate the commits if you need to.
+
+Branches would be good for anything that is experimental, or might potentially majorly effect the actual product.
+
+Its really good to see what happens in git as its hard to visualize it when you are doing it in the command line.  However it is no more clear, and I finally understand this whole detached head state :) :) :) <-- odd looking smilies
+
