@@ -7,3 +7,6 @@ Branches would be good for anything that is experimental, or might potentially m
 
 Its really good to see what happens in git as its hard to visualize it when you are doing it in the command line.  However it is no more clear, and I finally understand this whole detached head state :) :) :) <-- odd looking smilies
 
+The diagram was good to see what happens when you do a commit, and the chain of events.  When we did the a b c d e example it was clear to see what gets commited when and kindof how git looks as what to commit and what not to commit.
+
+With automatic mergeing it takes the grunt work out of looking at each line of code and seeing if it needs to be merged or not.  It it was fully automatic it would be bad though as it would break your code and that is no good.  However leaving it manual on the ones that are just cut and dry merges is good so you dont have to spend hours debugging the merges made by git.
