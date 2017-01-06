@@ -13,3 +13,7 @@ You can compare it to your working directory, that way you know what changes are
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could zip files back and forth, or come up with a simmilar system, but probably wont be nearly as good.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would say pretty much any change to the master should be done in a branch, I do like the idea of having a dev or build branch to place all changes and once these changes are verfied and finalized then push them to master, which then gets pushed live.
